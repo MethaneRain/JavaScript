@@ -1,6 +1,6 @@
 Javascript
 
-It would definitely be to my advantage if I could get the further than the basics in JavaScript, so away we go!
+It would definitely be to my advantage if I could get further than the basics in JavaScript, so away we go!
 
 ---
 
