@@ -26,3 +26,9 @@ and
 text
 </html>
 ```
+
+That's it! Check out the
+```
+basic_html.html
+```
+file here: https://github.com/MethaneRain/JavaScript/blob/master/basic_html.html
