@@ -14,13 +14,13 @@ But like anything in life, one must learn to crawl before learning to web-crawl.
 To begin a rudimentary "webpage" a simple ```.html``` file is necessary. Once the file has been created, it can be accessed locally in you web browser.
 
 The only things necessary for the file to work are:
-
+* doctype html call in the first line
 ```
 <!doctype html>
 ```
-call in the first line
 
-and
+* html tags
+
 ```
 <html>
 text
